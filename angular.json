@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "StudentManagementSystemUI"
+    }
+  },
+  "defaultProject": "StudentManagementSystemUI",
+  "cli": {
+    "analytics": "bb31bd1f-ff16-4e32-a035-df93208a704c"
+  }
 }
